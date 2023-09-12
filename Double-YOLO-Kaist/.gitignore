@@ -1,0 +1,14 @@
+.idea
+__pycache__
+Kaist/*
+Kaist_VOC
+Kaist_YOLO/*
+results/*
+weights/*
+runs/*
+tmp
+tmp/mobilenet_test.py
+
+!Kaist/trans_kaist2voc.py
+!Kaist/readme.txt
+!runs/readme.txt

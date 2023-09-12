@@ -1,0 +1,15 @@
+#数据在dataset目录下的文件夹路径
+path: DDH_keypoints
+
+#训练集、验证集、测试集相对于path的路径
+
+train: images/train
+val: images/val
+test: images/val
+
+#十个关键点，每个关键点有 X Y 是否可见 三个参数
+kpt_shape: [10,3]
+
+#款的类别
+names:
+  0: skeleton
